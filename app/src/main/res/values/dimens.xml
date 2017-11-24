@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_default_4dp">4dp</dimen>
+    <dimen name="margin_default_8dp">8dp</dimen>
+    <dimen name="margin_default_12dp">12dp</dimen>
+    <dimen name="margin_default_16dp">16dp</dimen>
+    <dimen name="margin_default_20dp">20dp</dimen>
+    <dimen name="margin_default_24dp">24dp</dimen>
+    <dimen name="margin_default_28dp">28dp</dimen>
+
+
+    <dimen name="default_text_size_9">9sp</dimen>
+    <dimen name="default_text_size_10">10sp</dimen>
+    <dimen name="default_text_size_11">11sp</dimen>
+    <dimen name="default_text_size_12">12sp</dimen>
+    <dimen name="default_text_size_13">13sp</dimen>
+    <dimen name="default_text_size_14">14sp</dimen>
+    <dimen name="default_text_size_15">15sp</dimen>
+    <dimen name="default_text_size_16">16sp</dimen>
+    <dimen name="default_text_size_17">17sp</dimen>
+    <dimen name="default_text_size_18">18sp</dimen>
+    <dimen name="default_text_size_19">19sp</dimen>
+    <dimen name="default_text_size_20">20sp</dimen>
+    <dimen name="default_text_size_21">21sp</dimen>
+    <dimen name="default_text_size_22">22sp</dimen>
+    <dimen name="default_text_size_23">23sp</dimen>
+    <dimen name="default_text_size_24">24sp</dimen>
+    <dimen name="default_text_size_25">25sp</dimen>
+
+
+
+
+
+</resources>
